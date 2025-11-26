@@ -1,0 +1,302 @@
+**PROMPT**
+
+
+
+Rewrite the documentation for the microservices in the system. Provide a schematic overview of the microservices, including a brief description of their functions, best practices used, libraries involved, and functional and non-functional requirements. Make sure to provide clear, detailed, accurate, and relevant output.
+
+
+
+
+
+
+
+**DATASET**
+
+
+
+Dario Amoroso d'Aragona, Alexander Bakhtin, Xiaozhou Li, Ruoyu Su, Lauren Adams, Ernesto Aponte, Francis Boyle, Patrick Boyle, Rachel Koerner, Joseph Lee, Fangchao Tian, Yuqing Wang, Jesse Nyyssölä, Ernesto Quevedo, Shahidur Md Rahaman, Amr S. Abdelfattah, Mika Mäntylä, Tomas Cerny, and Davide Taibi. 2024. A Dataset of Microservices-based Open-Source Projects. In Proceedings of the 21st International Conference on Mining Software Repositories (MSR '24). Association for Computing Machinery, New York, NY, USA, 504–509. https://doi.org/10.1145/3643991.3644890
+
+
+
+
+
+
+
+**MICROSERVICES LIST**
+
+
+
+**FTGO - Restaurant Management**
+
+* &nbsp;	accounting service
+* &nbsp;	consumer service
+* &nbsp;	delivery service
+* &nbsp;	kitchen service
+* &nbsp;	order service
+* &nbsp;	restaurant service
+
+
+
+
+
+
+
+**Tap and Eat**
+
+* &nbsp;	account service
+* &nbsp;	config service
+* &nbsp;	costumer service
+* &nbsp;	discovery service
+* &nbsp;	food tray service
+* &nbsp;	item service
+* &nbsp;	price service
+* &nbsp;	store service
+
+
+
+
+
+
+
+**Tea Store**
+
+* &nbsp;	auth
+* &nbsp;	image
+* &nbsp;	persistence
+* &nbsp;	recommender
+* &nbsp;	registry
+* &nbsp;	webui
+
+
+
+
+
+
+
+**Beer Catalog**
+
+* &nbsp;	beer catalog service
+* &nbsp;	edge service
+* &nbsp;	eureka service
+
+
+
+
+
+
+
+**E-commerce app**
+
+* &nbsp;	cart microservice
+
+
+
+
+
+
+
+**Graph processing**
+
+* &nbsp;	configuration service
+* &nbsp;	discovery service
+
+
+
+
+
+
+
+**Piggy Metrics**
+
+* &nbsp;	statistics service
+* &nbsp;	account service
+* &nbsp;	notification service
+
+
+
+
+
+
+
+**Spring PetClinic**
+
+* &nbsp;	costumers service
+* &nbsp;	vets service
+* &nbsp;	visits service
+* &nbsp;	discovery service
+
+
+
+
+
+
+
+**SiteWhere**
+
+* &nbsp;	service asset management
+* &nbsp;	service batch operations
+* &nbsp;	service command delivery
+* &nbsp;	service device management
+* &nbsp;	service device registration
+* &nbsp;	service device state
+* &nbsp;	service event management
+* &nbsp;	service event search
+* &nbsp;	service event sources
+* &nbsp;	service inbound processing
+* &nbsp;	service instance management
+* &nbsp;	service label generation
+* &nbsp;	service outbound connectors
+* &nbsp;	service schedule management
+* &nbsp;	service streaming media
+
+
+
+
+
+
+
+**Micro Company**
+
+* &nbsp;	command side blog service
+* &nbsp;	command side project service
+* &nbsp;	query side blog service
+* &nbsp;	query side project service
+
+
+
+
+
+
+
+**Product Review Microservice**
+
+* &nbsp;	product service
+* &nbsp;	recommandation service
+* &nbsp;	review service
+* &nbsp;	product composite service
+
+
+
+
+
+
+
+**Warehouse Microservice**
+
+* &nbsp;	account service
+* &nbsp;	order service
+* &nbsp;	product catalog service
+* &nbsp;	purchase otder service
+
+
+
+
+
+
+
+**Spring Microservices Online Shop**
+
+* &nbsp;	registration service
+* &nbsp;	account service
+* &nbsp;	web service
+
+
+
+
+
+
+
+**CQRS Microservice Application**
+
+* &nbsp;	config service
+* &nbsp;	discovery service
+* &nbsp;	gateway service
+
+
+
+
+
+
+
+**Freddy's BBQ Joint**
+
+* &nbsp;	microsec custom registry
+* &nbsp;	microsec costumer portal
+* &nbsp;	microsec menu service
+* &nbsp;	microsec order service
+
+
+
+
+
+
+
+**Generic Online Shop**
+
+* &nbsp;	category srv
+* &nbsp;	costumer srv
+* &nbsp;	notification srv
+* &nbsp;	order srv
+* &nbsp;	product srv
+* &nbsp;	warehouse srv
+
+
+
+
+
+
+
+**Spring Boot Microservices Blog Series**
+
+* &nbsp;	inventory service client
+* &nbsp;	product service
+* &nbsp;	order service
+* &nbsp;	catalog service
+
+
+
+
+
+
+
+**Delivery System**
+
+* &nbsp;	config service
+* &nbsp;	delivery service
+* &nbsp;	edge service
+* &nbsp;	eureka service
+
+
+
+
+
+
+
+**Hipster Shop**
+
+* &nbsp;	ad service
+
+
+
+
+
+
+
+**DDD Sample Application**
+
+* &nbsp;	booking service
+* &nbsp;	cargo inspection service
+* &nbsp;	handling event service
+
+
+
+
+
+
+
+**Cloud Native Microservice Strangler**
+
+* &nbsp;	profile service
+
+
+
